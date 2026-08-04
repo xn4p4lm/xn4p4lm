@@ -5,7 +5,7 @@
 When not working you can find me programming, tinkering, reading, taking all the pictures, and ocassionaly writing about my adventures through life.
 
 ### You'll see me referenced by two usernames: 
-- xN4P4LM - This is my old gamertag from halo 2 days
+- xN4P4LM - This is my old gamertag from gaming days
 - lesbian.dev - This is my newer username that I've started using in 2024
 
 ## You can find my coding projects here in my profile and through the following Organisations:
